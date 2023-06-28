@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["vite.config.ts"]
+}
+
+// Esse arquivo tem as configurações necessárias para que a aplicação TypeScript também consiga ser executada no ambiente de desenvolvimento, nesse caso usando node.
+
